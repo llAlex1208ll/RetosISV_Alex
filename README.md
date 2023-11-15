@@ -1,4 +1,3 @@
-# RetosISV_Alex
 # POSTMAN
 # SOAP
 
@@ -137,3 +136,26 @@ La colección de Postman disponible en el proyecto contiene llamados para consum
 
 ## Tarea 4:
 Modificar la aplicación para que la información consultada en los DAOs provenga de una base de datos en memoria (H2) y que se apoye en Spring Data.
+
+
+# TAREAS: SEGUNDA PARTE
+
+---
+
+# Tema 5: Testing
+Las pruebas unitarias y de integración juegan un papel crucial para garantizar la calidad de un producto de software. La planeación, implementación y mantenimiento 
+de éstas impactará de manera significativa los tiempos de desarrollo y la capacidad para agregar nuevas funcionalidades.
+
+
+## Tarea 5:
+Seguir el tutorial expuesto en la página: https://developer.okta.com/blog/2019/03/28/test-java-spring-boot-junit5. Agregar una nueva funcionalidad que permita determinar
+el número de años, meses, semanas, días, horas, minutos y segundos que han transcurrido desde la fecha de nacimiento ingresada. Agregar sus respectivos tests.
+
+
+# Tema 6: Kubernetes (K8S)
+En el medio actual, donde la nube se ha convertido en una pieza fundamental en el desarrollo de software y donde la cultura DEVOPS ha permeado toda la industria,
+K8S surge como una herramienta vital para orquestar el despliegue contenerizado de aplicaciones. Comprender sus elementos básicos resulta relevante para cualquier
+desarrollador de software bien informado.
+
+## Tarea 6:
+Realizar el tutorial expuesto en: https://learnk8s.io/spring-boot-kubernetes-guide. Desplegarlo de manera local usando Minikube.
